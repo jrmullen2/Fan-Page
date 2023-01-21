@@ -71,3 +71,10 @@ img {
 .pasttimes img {
     width: 100px;
 }
+.image-border {
+    display: flex;
+    border-radius: 8px;
+    border: #3882F6;
+    border-style: solid;
+    border-width: 4px;
+}
